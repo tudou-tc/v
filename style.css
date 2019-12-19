@@ -1,0 +1,69 @@
+/*
+div,span{
+	display: inline-block;
+}
+*/
+#url{
+	width:500px;
+}
+#select1{
+	width:550px;
+}
+#frame1{
+	width:1000px;
+}
+div.item{
+/*	float:left;*/
+	/*vertical-align: middle;*/
+	text-align:center;
+	width:50px;
+	display: inline-block;
+}
+.drama-content{
+	width:1000px;
+/*	background-color:#000;*/
+}
+
+.item-num{
+	background-color:#fd537f;
+	/*display:-webkit-flex;
+    display:flex;*/
+}
+.label-icon{
+	position: absolute;
+    top: -6px;
+    right: -5px;
+}
+.sn{
+	background-color:#ff0;
+	text-align:center;
+	font-weight:bold;
+	font-size:20px;
+	/*vertical-align: middle;*/
+	/*链接块位置*/
+}
+.sn_num {
+	width:30px;
+	/*background-color:#fd537f;*/
+	white-space:normal;
+	/*display:block;*/
+}
+img{
+	width:200;
+}
+div.title{
+	width:800;
+	text-align:center;
+}
+/*.c-time,.bg{
+	display:none;
+}*/
+i>img{
+	display:none;
+}
+
+/*爱奇艺*/
+
+.icon-br>img{
+	display:none;
+}
